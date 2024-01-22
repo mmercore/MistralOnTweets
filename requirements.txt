@@ -1,0 +1,5 @@
+beautifulsoup4==4.12.3
+duckduckgo_search==4.1.0
+py_llm_core==2.5.0
+selenium==4.16.0
+webdriver_manager==4.0.1
