@@ -1,3 +1,5 @@
+Unfortunately doesn't work anymore due to the sunsetting of nitter. :( 
+
 # MistralOnTweets
 
 This is a cool experiment on the interaction of weeb scrapping and LLMs. It implements CoVe ([arXiv:2309.11495](https://arxiv.org/abs/2309.11495)) to reduce hallucinations. I have made it both as a curiosity and as a CTF tool.
